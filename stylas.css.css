@@ -1,0 +1,128 @@
+.top_nav{
+	background-image:linear-gradient(to right,#091549,red,yellow);
+	width:1329px ;
+	height: 37px;
+	box-shadow: 2px 2px 0px 0px ;
+}
+.logo_section{
+	height: 55px;
+	margin-left: 5px;
+	background-color: #fff;
+	margin-right: 2px;
+	margin-top: 18px;
+
+}
+.menu_section{
+	height:10px;
+	margin-left: 30px;
+	background-color: #091549;
+	margin-right: 0px;
+	padding-right: 20px;
+	
+}
+.banner_section{
+	
+	margin-left: 5px;
+	background-color: #fff;
+	margin-right: 2px;
+	margin-top: 10px;
+}
+.container{
+	padding-right: 150px;
+	margin-left: 2px;
+	width: 119%;
+	margin-right: 2px;
+}
+.footersection{
+	background-color: #000;
+	
+	margin-left: 10px;
+	margin-right: 5px;
+}
+.program_section{
+	
+	
+	margin-left: 5px;
+	margin-right: 2px;
+}
+.founder_section{
+	
+	margin-top: 40px;
+	margin-left: 10px;
+	margin-right: 5px;
+}
+.about_section{
+	
+	
+	margin-left: 5px;
+	margin-right: 2px;
+	margin-top: 50px;
+}
+li {
+	float: left;
+	list-style-type:none ;
+	font-size:1px ;
+	margin-left: 1px;
+	margin-bottom:19px;
+	color: skyblue;
+	text-decoration: none;
+	padding-right: 0px;
+	background-color: ;
+	color: #000;
+	hover: #ff0000;
+
+}
+a {
+	text-decoration: none;
+}
+
+
+
+li a:hover{
+	background-color: skyblue;
+	color: #091549;
+
+}
+
+
+ul{
+	margin-left: -20px;
+	background-color: #091549;
+
+
+}
+.program{
+	box-shadow: 20px;
+	background-color: #fff;
+}
+.programs{
+	font-size: 5px;
+	list-style-type: decimal;
+}
+.about_img{
+
+}
+
+.img {
+	float: left;
+}
+
+.footer1 {
+	margin-left: 20px;
+}
+.mission{
+	box-shadow: 1px 1px 0px 1px;
+	margin: 0px;
+	color: #000;
+	border: 3px;
+}
+.mission_head{
+	border-radius: 5px;
+	color: #00f;
+}
+p {
+	font-size: 18px;
+}
+table,th,td{
+	border: 1px solid black;
+}
